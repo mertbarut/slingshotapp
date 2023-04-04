@@ -1,8 +1,0 @@
-[workspace]
-members = [
-    "auth-service",
-    "planets-service",
-    "satellites-service",
-    "gateway",
-    "common-utils",
-]
